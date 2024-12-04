@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\bd\\tela_inicial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\bd\\tela_inicial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\bd\\banco_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\bd\\banco_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\pagina_home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\pagina_home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\acessos\\_criar_perfil_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\acessos\\_criar_perfil_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\acessos\\_perfil_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\acessos\\_perfil_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\pagina_home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\pagina_home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\shared\\_layout-geral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\shared\\_layout-geral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\controllers\\pagina_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\controllers\\pagina_homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\controllers\\acessoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\controllers\\acessoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\pagina_home\\produtos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\pagina_home\\produtos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\shared\\_layout-funcionarios-logado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\shared\\_layout-funcionarios-logado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\shared\\_layout-funcionarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\shared\\_layout-funcionarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\pagina_home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\pagina_home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\acessos\\criar_perfil_funcionario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\acessos\\criar_perfil_funcionario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\acessos\\perfil_administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\acessos\\perfil_administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\acessos\\perfil_funcionario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\acessos\\perfil_funcionario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|c:\\users\\nandarum\\source\\repos\\empreendendo com systemlock\\empreendendo com systemlock\\views\\pagina_home\\ajuda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F77C60E-CFA9-4B92-8ACA-32F4BBC45EC8}|Empreendendo com SystemLock\\Empreendendo com SystemLock.csproj|solutionrelative:empreendendo com systemlock\\views\\pagina_home\\ajuda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tela_Inicial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\BD\\Tela_Inicial.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\BD\\Tela_Inicial.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\BD\\Tela_Inicial.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\BD\\Tela_Inicial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:56:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco_Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\BD\\Banco_Cliente.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\BD\\Banco_Cliente.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\BD\\Banco_Cliente.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\BD\\Banco_Cliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:54:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:01:24.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Program.cs",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Program.cs",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Program.cs",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:55:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Perfil_Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\_Perfil_Cliente.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Acessos\\_Perfil_Cliente.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\_Perfil_Cliente.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Acessos\\_Perfil_Cliente.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:31:17.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Contato.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Contato.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Contato.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Contato.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:02:00.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sobre.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Sobre.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Sobre.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Sobre.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Sobre.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:09:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Criar_Perfil_Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\_Criar_Perfil_Cliente.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Acessos\\_Criar_Perfil_Cliente.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\_Criar_Perfil_Cliente.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Acessos\\_Criar_Perfil_Cliente.cshtml",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:46:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Empreendendo com SystemLock\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T00:04:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pagina_HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Controllers\\Pagina_HomeController.cs",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Controllers\\Pagina_HomeController.cs",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Controllers\\Pagina_HomeController.cs",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Controllers\\Pagina_HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:58:06.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AcessosController.cs",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Controllers\\AcessosController.cs",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Controllers\\AcessosController.cs",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Controllers\\AcessosController.cs",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Controllers\\AcessosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:44:03.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout-geral.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-geral.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-geral.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-geral.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-geral.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:12:28.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T03:23:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Produtos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Produtos.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Produtos.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Produtos.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Produtos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:02:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout-funcionarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:34:31.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout-funcionarios-logado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios-logado.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios-logado.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios-logado.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Shared\\_Layout-funcionarios-logado.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:35:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Usuario.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Usuario.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Usuario.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Usuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:13:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Criar_Perfil_Funcionario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Criar_Perfil_Funcionario.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Acessos\\Criar_Perfil_Funcionario.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Criar_Perfil_Funcionario.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Acessos\\Criar_Perfil_Funcionario.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:28:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Perfil_Administrador.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Administrador.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Administrador.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Administrador.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Administrador.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:33:36.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Perfil_Funcionario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Funcionario.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Funcionario.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Funcionario.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Acessos\\Perfil_Funcionario.cshtml",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAIoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T01:42:56.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ajuda.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Ajuda.cshtml",
+              "RelativeDocumentMoniker": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Ajuda.cshtml",
+              "ToolTip": "C:\\Users\\Nandarum\\source\\repos\\Empreendendo com SystemLock\\Empreendendo com SystemLock\\Views\\Pagina_Home\\Ajuda.cshtml",
+              "RelativeToolTip": "Empreendendo com SystemLock\\Views\\Pagina_Home\\Ajuda.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:02:22.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

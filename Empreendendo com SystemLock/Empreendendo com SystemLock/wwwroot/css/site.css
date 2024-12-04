@@ -1,0 +1,252 @@
+/* Configuração CSS padrão */
+html {
+    font-size: 14px; /* Tamanho de fonte padrão */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px; /* Aumenta o tamanho da fonte em telas maiores */
+        background: linear-gradient(to right, rgb(0, 0, 131), rgb(85, 11, 91)); /* Fundo em gradiente */
+    }
+}
+
+body {
+    margin: 0 0 60px; /* Remove margens e define espaço inferior para rodapé */
+    padding: 0;
+    width: 100%;
+    background-color: white; /* Fundo preto */
+    color: white; /* Texto branco */
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para foco em botões, links e inputs */
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; /* Sombra ao focar no elemento */
+}
+
+/* Rodapé */
+.footer-rodape {
+    background: linear-gradient(to right, rgb(0, 0, 131), rgb(85, 11, 91));
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.info-contatos, .media-social {
+    flex: 1; /* Colunas crescem igualmente */
+    min-width: 200px; /* Largura mínima das colunas */
+    margin: 30px; /* Margem entre colunas */
+}
+
+/* Estilo para cabeçalhos e listas */
+h3 {
+    margin-bottom: 10px; /* Espaçamento abaixo do cabeçalho */
+}
+
+ul {
+    list-style-type: none; /* Remove marcadores das listas */
+    padding: 0; /* Remove padding padrão */
+}
+
+li {
+    margin: 5px 0; /* Espaçamento entre itens da lista */
+}
+
+/* Links */
+a {
+    color: white; /* Cor padrão dos links */
+    text-decoration: none; /* Remove sublinhado */
+}
+
+    a:hover {
+        text-decoration: underline; /* Sublinhado ao passar o mouse */
+    }
+
+/* Ícones de redes sociais */
+.media-social img {
+    width: 24px; /* Tamanho do ícone */
+    height: 24px; /* Tamanho do ícone */
+    margin-right: 10px; /* Espaço entre ícones */
+}
+
+/* Área de cliente */
+.nav-Cliente-area {
+    margin-left: auto; /* Empurra o item "Área do Cliente" para a direita */
+}
+
+.navbar-brand {
+    color: white !important; /* Define a cor do texto como branco */
+}
+
+/* Menu de navegação */
+.navbar {
+    display: flex; /* Itens do menu em linha */
+    align-items: center; /* Centraliza verticalmente */
+    background: linear-gradient(to right, rgb(0, 0, 131), rgb(85, 11, 91));
+    position: relative; /* Para sobreposição de elementos */
+    z-index: 1000; /* Mantém o menu acima de outros elementos */
+    padding: 10px; /* Espaçamento interno */
+}
+
+.menu {
+    display: flex; /* Flexbox para itens do menu */
+    justify-content: space-around; /* Espaçamento igual entre itens */
+    list-style: none; /* Remove marcadores */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margens */
+    flex: 3; /* Menu ocupa espaço flexível */
+}
+
+    .menu li {
+        text-align: center; /* Centraliza texto nos itens do menu */
+    }
+
+    .menu a {
+        color: black; /* Cor do texto */
+        text-decoration: none; /* Remove sublinhado */
+        padding: 10px; /* Espaçamento interno dos links */
+        display: block; /* Faz o link ocupar todo o espaço do item */
+        transition: background-color 0.3s, color 0.3s; /* Transição suave ao passar o mouse */
+    }
+
+        .menu a:hover {
+            background-color: black; /* Fundo preto ao passar o mouse */
+            color: white; /* Texto branco ao passar o mouse */
+        }
+
+}
+/* Container de pesquisa */
+.search-container {
+    flex: 1; /* Espaço flexível para a barra de pesquisa */
+    text-align: right; /* Alinha a barra à direita */
+}
+
+/* Barra de pesquisa */
+.search-bar {
+    padding: 8px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda */
+    border-radius: 4px; /* Bordas arredondadas */
+    width: 100%; /* Largura total */
+    max-width: 200px; /* Largura máxima */
+}
+/*-------------------------------------- area do cliente-----------------------------------------------------*/
+/* Estilização do botão */
+.btn {
+    padding: 10px 20px;
+    background-color: rgb(0, 0, 131);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilização geral do modal */
+.modal {
+    display: none; /* Modal escondido por padrão */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo escuro e transparente */
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; /* Certifique-se que o modal está no topo de todos os elementos */
+    overflow: auto; /* Garante que o conteúdo role se for grande demais */
+}
+
+/* Conteúdo do modal */
+.modal-content {
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona sombra para destacar o modal */
+    position: relative;
+    z-index: 9998; /* Modal sempre no topo dentro do modal */
+}
+
+/* Formatação dos formulários */
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Esconder os formulários de login/cadastro por padrão */
+#loginForm, #cadastroForm {
+    display: none;
+}
+
+/* Estilização do botão fechar */
+.close-btn {
+    float: right;
+    cursor: pointer;
+    color: red;
+    top: 10%;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-body {
+    margin-top: 10px;
+    color: white;
+}
+
+/* Garante que o modal cubra todo o conteúdo */
+body.modal-open {
+    overflow: hidden; /* Remove o scroll quando o modal está aberto */
+}
+
+.modal {
+    z-index: 9999; /* Sobrescreve qualquer outro elemento com menor z-index */
+    padding: 10px; /* Garante um pequeno espaçamento nas bordas */
+}
+
+/*-====================================================================================================ADM*/
+.containerx2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.edit-icon {
+    cursor: pointer;
+}
+
+.delete-icon {
+    color: red;
+    cursor: pointer;
+}

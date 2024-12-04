@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Empreendendo_com_SystemLock
+build_property.RootNamespace = Empreendendo_com_SystemLock
+build_property.ProjectDir = C:\Users\Nandarum\source\repos\Empreendendo com SystemLock\Empreendendo com SystemLock\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nandarum\source\repos\Empreendendo com SystemLock\Empreendendo com SystemLock
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/Criar_Perfil_Funcionario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xDcmlhcl9QZXJmaWxfRnVuY2lvbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/Perfil_Administrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xQZXJmaWxfQWRtaW5pc3RyYWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/Perfil_Funcionario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xQZXJmaWxfRnVuY2lvbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/Retornar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xSZXRvcm5hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/_Criar_Perfil_Cliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xfQ3JpYXJfUGVyZmlsX0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Acessos/_Perfil_Cliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNlc3Nvc1xfUGVyZmlsX0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/BD/Banco_Cliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQkRcQmFuY29fQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/BD/Banco_funcionario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQkRcQmFuY29fZnVuY2lvbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/BD/Tela_Inicial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQkRcVGVsYV9JbmljaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Ajuda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcQWp1ZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcQ29udGF0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Produtos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcUHJvZHV0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcU29icmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Pagina_Home/Usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hX0hvbWVcVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/_Layout-funcionarios-logado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQtZnVuY2lvbmFyaW9zLWxvZ2Fkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-qjhuz03l9i
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/_Layout-funcionarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQtZnVuY2lvbmFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-8vkdnstcvn
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/_Layout-geral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQtZ2VyYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tydq8pddlo
+
+[C:/Users/Nandarum/source/repos/Empreendendo com SystemLock/Empreendendo com SystemLock/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7e0wahc3bl

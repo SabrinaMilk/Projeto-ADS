@@ -1,0 +1,172 @@
+﻿@{
+    Layout = ViewBag.Layout ?? "~/Views/Shared/_Layout-funcionarios.cshtml";
+    ViewBag.Title = "SystemLock - Acesso Administrativo";
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js" integrity="sha512-+k1pnlgt4F1H8L7t3z95o3/KO+o78INEcXTbnoJQ/F2VqDVhWoaiVml/OEHv9HsVgxUaVW+IbiZPUJQfF/YxZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}
+<div class="modal-login" id="modalLogin">
+    <div class="container">
+        <div class="form-container">
+            <button type="button" class="close-btn" onclick="fecharModal()">x</button>
+            <h2 class="titulo">LOGIN ADMINISTRATIVO</h2>
+            <form id="formLoginAdm">
+                <div class="form-group">
+                    <label for="email">E-mail:</label>
+                    <input type="text" id="email" class="form-control" autocomplete="off" />
+                </div>
+                <div class="form-group">
+                    <label for="senha">Senha:</label>
+                    <input type="password" id="senha" class="form-control" autocomplete="off" />
+                </div>
+                <button type="button" class="btn" onclick="verificarAcesso()">Entrar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de sucesso ou erro -->
+<div id="modalMensagem" class="modal">
+    <div class="modal-content">
+        <p id="mensagemModal"></p>
+        <button class="btn" onclick="fecharModalMensagem()">OK</button>
+    </div>
+</div>
+
+<!-- Estilos -->
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Estilo do modal */
+    .modal-login {
+        display: none; /* Inicialmente oculto */
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5); /* Fundo semitransparente */
+        justify-content: center;
+        align-items: center;
+    }
+
+    .modal-content {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        width: 400px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        position: relative;
+    }
+
+        .modal-content h2 {
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+
+    .form-group {
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+    label {
+        color: #007bff;
+        font-weight: bold;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .btn {
+        width: 100%;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    #modalMensagem {
+        color: #007bff;
+    }
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
+
+    /* Botão de fechar */
+    .close-btn {
+        position: relative;
+        background: none;
+        border: none;
+        font-size: 20px;
+        color: #007bff;
+        cursor: pointer;
+    }
+
+        .close-btn:hover {
+            color: red;
+        }
+
+    /* Modal de mensagem */
+    .modal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<!-- Script -->
+<script>
+    $(document).ready(function () {
+        abrirModal();
+    });
+
+    function abrirModal() {
+        document.getElementById("modalLogin").style.display = "flex";
+    }
+
+    function fecharModal() {
+        document.getElementById("modalLogin").style.display = "none";
+        window.location.href = '/Pagina_Home/Usuario'; // Redirecionamento
+    }
+
+    function verificarAcesso() {
+        var email = document.getElementById("email").value;
+        var senha = document.getElementById("senha").value;
+
+        if (email === "systemlock.centraladm@gmail.com" && senha === "1234") {
+            mostrarMensagem("Login bem-sucedido! Bem-vindo à área administrativa.");
+            setTimeout(() => {
+                window.location.href = '/Acessos/Criar_Perfil_Funcionario'; // Redireciona ao perfil administrativo
+            }, 2000);
+        } else {
+            mostrarMensagem("Credenciais inválidas. Tente novamente.");
+        }
+    }
+
+    function mostrarMensagem(mensagem) {
+        document.getElementById("mensagemModal").innerText = mensagem;
+        document.getElementById("modalMensagem").style.display = "flex";
+    }
+
+    function fecharModalMensagem() {
+        document.getElementById("modalMensagem").style.display = "none";
+    }
+</script>

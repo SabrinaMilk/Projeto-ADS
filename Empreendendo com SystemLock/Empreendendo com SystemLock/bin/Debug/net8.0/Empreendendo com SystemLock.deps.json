@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Empreendendo com SystemLock/1.0.0": {
+        "runtime": {
+          "Empreendendo com SystemLock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empreendendo com SystemLock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

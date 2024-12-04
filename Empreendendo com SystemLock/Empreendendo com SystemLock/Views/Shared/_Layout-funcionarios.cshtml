@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+                                                                                                                           <!-- Define o tipo de documento como HTML5 e especifica que o idioma da página é portugues-->
+
+<head>
+    <!-- Cabeça/configurações iniciais -->
+
+    <meta charset="utf-8" />                                                                                                                  <!-- Define a codificação de caracteres, garantindo a exibição correta de caracteres especiais -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />                                                                  <!-- Ajusta a página para ser responsiva, ou seja, adaptável ao tamanho de diferentes telas (ex: celular, tablet) -->
+    <title>@ViewData["Title"] - Empresa_SystemLock_Restrito</title>                                                                                    <!-- Define o título da página com base na variável ViewData["Title"], seguido por "Empresa SystemLock" -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />                                                               <!-- Importa a folha de estilo do Bootstrap, uma biblioteca de CSS que facilita a criação de layouts responsivos e componentes de interface -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />                                                                 <!-- Importa a folha de estilo personalizada 'site.css', e 'asp-append-version="true"' adiciona uma versão ao arquivo para evitar cache desatualizado -->
+    <link rel="stylesheet" href="~/Empresa_SystemLock.styles.css" asp-append-version="true" />                                                <!-- Importa outra folha de estilo para definir estilos específicos do projeto -->
+
+</head>
+
+
+
+<body>
+    <!-- Corpo do site, informações contidas -->
+    <header>
+        <!-- Início do cabeçalho -->
+        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom">
+            <!-- Barra de navegação com estilo Bootstrap -->
+            <div class="container-fluid">
+                <!-- Container que mantém o conteúdo da barra de navegação alinhado -->
+                <a class="navbar-brand" asp-area="" asp-controller="Pagina_Home" asp-action="Usuario"><img src="~/img/icon.gerais/Logo_da_marca.png" alt="Logo" style="height: 40px;" /> </a> <!-- Logo que direciona para a página inicial -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <!-- Botão para colapsar o menu em telas pequenas -->
+                    <span class="navbar-toggler-icon"></span> <!-- Ícone do botão de colapso -->
+                </button>
+            </div>
+        </nav>
+
+
+        <div class="container">
+            <!-- Conteúdo principal -->
+            <main role="main" class="pb-3">
+                @RenderBody()                                                                                                                     <!-- Renderiza o conteúdo específico de cada página -->
+            </main>
+        </div>
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>                                                                                   <!-- Scripts do jQuery e Bootstrap -->
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>                                                                   <!-- Script personalizado do site -->
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
+        @await RenderSectionAsync("Scripts", required: false)                                                                                     <!-- Seção para scripts adicionais, caso necessário -->
+
+</body>
+
+</html>
